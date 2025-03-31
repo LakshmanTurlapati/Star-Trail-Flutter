@@ -1,0 +1,18 @@
+name: star_trail
+description: A Flutter package for creating a star trails animation effect with circular motion, fading inner radii, and shorter trails near the center.
+version: 1.0.0
+repository: https://github.com/LakshmanTurlapati/Star-Trail-Flutter
+issue_tracker: https://github.com/LakshmanTurlapati/Star-Trail-Flutter/issues
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
