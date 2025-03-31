@@ -28,7 +28,7 @@ Fading Effect: Inner 10% of stars fade in opacity and have shorter trails
 
 
 
-Feel free to enhance the README with a screenshot or GIF of the animation later!
+
 
 ---
 By Lakshman Turlapati
